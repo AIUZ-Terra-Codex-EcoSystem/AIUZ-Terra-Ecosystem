@@ -2,7 +2,8 @@ name: Populate Practice Repository
 
 on:
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   populate:
     runs-on: ubuntu-latest
