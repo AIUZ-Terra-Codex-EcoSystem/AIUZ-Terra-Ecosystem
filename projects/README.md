@@ -29,3 +29,9 @@ Collaborative platform for solving mathematical problems.
 ---
 
 Last Updated: October 2025
+
+---
+<!-- TERRA_IDENTITY_POSTFIX v1 -->
+**Contact:** a.abdukarimov@fractal-metascience.org
+**ORCID:** 0009-0000-6394-4912
+
