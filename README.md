@@ -1,7 +1,7 @@
-> **📍 Part of [FMP Central Repository](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) — see full ecosystem map**
+> **рџ“Ќ Part of [FMP Central Repository](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) вЂ” see full ecosystem map**
 
 ---
-# 🌍 AIUZ Terra Ecosystem
+# рџЊЌ AIUZ Terra Ecosystem
 
 **Practical Implementations of Fractal Metascience Paradigm**
 
@@ -11,64 +11,64 @@
 
 ---
 
-## 📖 Overview
+## рџ“– Overview
 
 AIUZ Terra Ecosystem is the **practical manifestation** of Fractal Metascience Paradigm (FMP). This repository contains working implementations of:
 
-- 🎓 **Terra Codex** - Educational platform (L0-L7 architecture)
-- 📚 **TerraPedia** - Living, fractal-structured knowledge base
-- 🌱 **Projects** - Real-world applications (Uzbek Mining, Fractal Silk Route, Millennium Solver)
-- 🤖 **Apps & Tools** - Interactive prototypes and dashboards
-- ⚖️ **DAO Framework** - Decentralized governance (UTIL/GOV/REP tokens)
+- рџЋ“ **Terra Codex** - Educational platform (L0-L7 architecture)
+- рџ“љ **TerraPedia** - Living, fractal-structured knowledge base
+- рџЊ± **Projects** - Real-world applications (Uzbek Mining, Fractal Silk Route, Millennium Solver)
+- рџ¤– **Apps & Tools** - Interactive prototypes and dashboards
+- вљ–пёЏ **DAO Framework** - Decentralized governance (UTIL/GOV/REP tokens)
 
 ---
 
-## 🔗 Related Repository
+## рџ”— Related Repository
 
 This is the **practical implementation**. For theoretical foundations, see:  
-👉 [Nullo-PLT-FMP-Theory](https://github.com/Secret-Uzbek/Nullo-PLT-FMP-Theory)
+рџ‘‰ [Nullo-PLT-FMP-Theory](https://github.com/Secret-Uzbek/Nullo-PLT-FMP-Theory)
 
 ---
 
-## 📂 Repository Structure
+## рџ“‚ Repository Structure
 
 ```
 AIUZ-Terra-Ecosystem/
-├── terra-codex/          # Educational platform
-│   ├── memory-protocol/  # TerraMemoryDNA v4.0
-│   ├── live-class/       # Interactive learning
-│   ├── tamagochi/        # Gamified education
-│   └── immersive/        # VR/AR experiences
-│
-├── terra-pedia/          # Living knowledge base
-│   ├── lexicography/     # Fractal dictionaries
-│   ├── semantic-core/    # Concept mapping
-│   └── multilingual/     # Cross-language support
-│
-├── projects/             # Real-world applications
-│   ├── uzbek-mining/     # Ecological mining (Tashkent pilot 2026)
-│   ├── fractal-silk-route/ # Logistics hub
-│   └── millennium-solver/  # Mathematical challenges
-│
-├── apps/                 # Prototypes & tools
-│   ├── prototypes/       # HTML/JS demos
-│   ├── dashboards/       # Admin interfaces
-│   └── tools/            # Developer utilities
-│
-├── contracts/            # Blockchain & DAO
-│   ├── tokens/           # UTIL, GOV, REP tokens
-│   ├── governance/       # DAO smart contracts
-│   └── treasury/         # Fund management
-│
-└── docs/                 # Technical documentation
-    ├── architecture.md   # System design
-    ├── deployment.md     # Setup instructions
-    └── api-reference.md  # Developer API
+в”њв”Ђв”Ђ terra-codex/          # Educational platform
+в”‚   в”њв”Ђв”Ђ memory-protocol/  # TerraMemoryDNA v4.0
+в”‚   в”њв”Ђв”Ђ live-class/       # Interactive learning
+в”‚   в”њв”Ђв”Ђ tamagochi/        # Gamified education
+в”‚   в””в”Ђв”Ђ immersive/        # VR/AR experiences
+в”‚
+в”њв”Ђв”Ђ terra-pedia/          # Living knowledge base
+в”‚   в”њв”Ђв”Ђ lexicography/     # Fractal dictionaries
+в”‚   в”њв”Ђв”Ђ semantic-core/    # Concept mapping
+в”‚   в””в”Ђв”Ђ multilingual/     # Cross-language support
+в”‚
+в”њв”Ђв”Ђ projects/             # Real-world applications
+в”‚   в”њв”Ђв”Ђ uzbek-mining/     # Ecological mining (Tashkent pilot 2026)
+в”‚   в”њв”Ђв”Ђ fractal-silk-route/ # Logistics hub
+в”‚   в””в”Ђв”Ђ millennium-solver/  # Mathematical challenges
+в”‚
+в”њв”Ђв”Ђ apps/                 # Prototypes & tools
+в”‚   в”њв”Ђв”Ђ prototypes/       # HTML/JS demos
+в”‚   в”њв”Ђв”Ђ dashboards/       # Admin interfaces
+в”‚   в””в”Ђв”Ђ tools/            # Developer utilities
+в”‚
+в”њв”Ђв”Ђ contracts/            # Blockchain & DAO
+в”‚   в”њв”Ђв”Ђ tokens/           # UTIL, GOV, REP tokens
+в”‚   в”њв”Ђв”Ђ governance/       # DAO smart contracts
+в”‚   в””в”Ђв”Ђ treasury/         # Fund management
+в”‚
+в””в”Ђв”Ђ docs/                 # Technical documentation
+    в”њв”Ђв”Ђ architecture.md   # System design
+    в”њв”Ђв”Ђ deployment.md     # Setup instructions
+    в””в”Ђв”Ђ api-reference.md  # Developer API
 ```
 
 ---
 
-## 🚀 Quick Start
+## рџљЂ Quick Start
 
 ### For Educators
 ```bash
@@ -90,7 +90,7 @@ cd terra-pedia/
 
 ---
 
-## 🎓 Core Components
+## рџЋ“ Core Components
 
 ### 1. Terra Codex
 Multi-level educational framework (L0-L7):
@@ -103,7 +103,7 @@ Multi-level educational framework (L0-L7):
 - **L6**: Ecosystem integration
 - **L7**: Quantum superposition
 
-📂 [Learn more](terra-codex/)
+рџ“‚ [Learn more](terra-codex/)
 
 ### 2. TerraPedia
 Living knowledge organism:
@@ -112,38 +112,38 @@ Living knowledge organism:
 - Cross-cultural translation
 - Community co-curation
 
-📂 [Learn more](terra-pedia/)
+рџ“‚ [Learn more](terra-pedia/)
 
 ### 3. Active Projects
 
-#### 🌱 Uzbek Mining (Tashkent Pilot, 2026)
+#### рџЊ± Uzbek Mining (Tashkent Pilot, 2026)
 Ecological cryptocurrency mining powered by 100% renewable energy.
 - **Location**: Tashkent Region, Uzbekistan
 - **Launch**: Q2 2026
 - **Capacity**: 10 MW (Phase 1)
 - **Jobs**: 50+ local positions
 
-📂 [Details](projects/uzbek-mining/)
+рџ“‚ [Details](projects/uzbek-mining/)
 
-#### 🛣️ Fractal Silk Route Hub
+#### рџ›ЈпёЏ Fractal Silk Route Hub
 Decentralized logistics network connecting Central Asia with Europe and Asia.
 - **Launch**: 2026
 - **Technology**: Blockchain tracking, AI routing
 - **Governance**: DAO structure
 
-📂 [Details](projects/fractal-silk-route/)
+рџ“‚ [Details](projects/fractal-silk-route/)
 
-#### 🧮 Millennium Solver
+#### рџ§® Millennium Solver
 Collaborative platform for solving unsolved mathematical problems.
 - **Target**: Millennium Prize Problems
 - **Approach**: Fractal decomposition (L0-L7)
 - **Rewards**: REP tokens + prize sharing
 
-📂 [Details](projects/millennium-solver/)
+рџ“‚ [Details](projects/millennium-solver/)
 
 ---
 
-## 🪙 Tokenomics
+## рџЄ™ Tokenomics
 
 ### Three-Token System
 
@@ -158,11 +158,11 @@ Collaborative platform for solving unsolved mathematical problems.
 - GOV: 50% community, 25% team, 15% partners, 10% reserve
 - REP: Earned through contributions (non-transferable)
 
-📂 [Tokenomics Details](contracts/)
+рџ“‚ [Tokenomics Details](contracts/)
 
 ---
 
-## 🛠️ Technology Stack
+## рџ› пёЏ Technology Stack
 
 **Frontend**: React, TypeScript, TailwindCSS, Three.js  
 **Backend**: Node.js, Python, GraphQL, Express  
@@ -171,11 +171,11 @@ Collaborative platform for solving unsolved mathematical problems.
 **AI**: Claude API (Anthropic), Langchain, Vector DBs  
 **Infrastructure**: Docker, Kubernetes, AWS/GCP
 
-📂 [Architecture Details](docs/architecture.md)
+рџ“‚ [Architecture Details](docs/architecture.md)
 
 ---
 
-## 🤝 Contributing
+## рџ¤ќ Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon).
 
@@ -187,27 +187,27 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) (coming 
 5. Open a Pull Request
 
 ### Areas We Need Help:
-- 🎓 Educational content (Terra Codex)
-- 📚 Knowledge base entries (TerraPedia)
-- 💻 Smart contract development
-- 🎨 UI/UX design
-- 🌍 Translations (RU, UZ, and more)
-- 📖 Documentation
+- рџЋ“ Educational content (Terra Codex)
+- рџ“љ Knowledge base entries (TerraPedia)
+- рџ’» Smart contract development
+- рџЋЁ UI/UX design
+- рџЊЌ Translations (RU, UZ, and more)
+- рџ“– Documentation
 
 ---
 
-## 📊 Project Status
+## рџ“Љ Project Status
 
 | Phase | Status | Timeline |
 |-------|--------|----------|
-| **Phase 1** | Architecture design | ✅ Complete |
-| **Phase 2** | Core components development | 🔄 In Progress |
-| **Phase 3** | Pilot deployment (Tashkent) | 📅 Q2 2026 |
-| **Phase 4** | Global expansion | 📅 2027+ |
+| **Phase 1** | Architecture design | вњ… Complete |
+| **Phase 2** | Core components development | рџ”„ In Progress |
+| **Phase 3** | Pilot deployment (Tashkent) | рџ“… Q2 2026 |
+| **Phase 4** | Global expansion | рџ“… 2027+ |
 
 ---
 
-## 📜 License
+## рџ“њ License
 
 This project is dual-licensed:
 
@@ -218,20 +218,20 @@ See [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
+## рџ‘¤ Author
 
 **Abdurashid Abdulkhamitovich Abdukarimov**  
 Independent Researcher, Tashkent, Uzbekistan
 
-- 📧 Email: a.a.abdukarimov@tutamail.com  
-- 🆔 ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
-- 🐙 GitHub: [@Secret-Uzbek](https://github.com/Secret-Uzbek)
+- рџ“§ Email: a.a.abdukarimov@tutamail.com  
+- рџ†” ORCID: [0009-0000-6394-4912](https://orcid.org/0009-0000-6394-4912)  
+- рџђ™ GitHub: [@Secret-Uzbek](https://github.com/Secret-Uzbek)
 
 **Research Interests**: Fractal epistemology, human-AI symbiosis, living knowledge systems, biocentric architectures, decentralized governance
 
 ---
 
-## 📧 Contact
+## рџ“§ Contact
 
 - **Issues**: [GitHub Issues](https://github.com/Secret-Uzbek/AIUZ-Terra-Ecosystem/issues) for bug reports
 - **Discussions**: [GitHub Discussions](https://github.com/Secret-Uzbek/AIUZ-Terra-Ecosystem/discussions) for questions
@@ -240,7 +240,7 @@ Independent Researcher, Tashkent, Uzbekistan
 
 ---
 
-## 🌟 Acknowledgments
+## рџЊџ Acknowledgments
 
 Built with principles from:
 - **Fractal Metascience Paradigm (FMP)**
@@ -255,29 +255,29 @@ Special thanks to:
 
 ---
 
-## 🗺️ Roadmap
+## рџ—єпёЏ Roadmap
 
 ### 2025
-- ✅ Q1: Repository structure
-- 🔄 Q2: Terra Codex MVP
-- 📅 Q3: TerraPedia alpha
-- 📅 Q4: Smart contracts testnet
+- вњ… Q1: Repository structure
+- рџ”„ Q2: Terra Codex MVP
+- рџ“… Q3: TerraPedia alpha
+- рџ“… Q4: Smart contracts testnet
 
 ### 2026
-- 📅 Q1: Uzbek Mining pilot begins
-- 📅 Q2: Terra Codex public launch (Tashkent)
-- 📅 Q3: DAO governance live
-- 📅 Q4: Fractal Silk Route beta
+- рџ“… Q1: Uzbek Mining pilot begins
+- рџ“… Q2: Terra Codex public launch (Tashkent)
+- рџ“… Q3: DAO governance live
+- рџ“… Q4: Fractal Silk Route beta
 
 ### 2027+
-- 📅 Global expansion
-- 📅 Millennium Solver launch
-- 📅 Multi-chain integration
-- 📅 Academic partnerships
+- рџ“… Global expansion
+- рџ“… Millennium Solver launch
+- рџ“… Multi-chain integration
+- рџ“… Academic partnerships
 
 ---
 
-## 📚 Documentation
+## рџ“љ Documentation
 
 - [System Architecture](docs/architecture.md)
 - [Deployment Guide](docs/deployment.md)
@@ -287,7 +287,7 @@ Special thanks to:
 
 ---
 
-## 📊 Statistics
+## рџ“Љ Statistics
 
 | Metric | Value |
 |--------|-------|
@@ -305,9 +305,9 @@ Special thanks to:
 **Terra Ecosystem**  
 *Fractal Knowledge for a Living Planet*
 
-[Theory](https://github.com/Secret-Uzbek/Nullo-PLT-FMP-Theory) • 
-[Practice](https://github.com/Secret-Uzbek/AIUZ-Terra-Ecosystem) • 
-[Contribute](CONTRIBUTING.md) • 
+[Theory](https://github.com/Secret-Uzbek/Nullo-PLT-FMP-Theory) вЂў 
+[Practice](https://github.com/Secret-Uzbek/AIUZ-Terra-Ecosystem) вЂў 
+[Contribute](CONTRIBUTING.md) вЂў 
 [Contact](mailto:a.a.abdukarimov@tutamail.com)
 
 **Last Updated**: October 2025
@@ -316,21 +316,21 @@ Special thanks to:
 
 
 <!-- TERRAPEDIA_FRAGMENT -->
-# AIUZ-Terra-Ecosystem — ecosystem entrypoint (autogenerated fragment)
+# AIUZ-Terra-Ecosystem вЂ” ecosystem entrypoint (autogenerated fragment)
 
 This README contains an autogenerated fragment describing L0-L2 architecture.
 
 ## L0 (core)
-- TerraMemoryDNA v7.0 — living core (link to core file)
-- FMP Monograph — theoretical monograph (link)
+- TerraMemoryDNA v7.0 вЂ” living core (link to core file)
+- FMP Monograph вЂ” theoretical monograph (link)
 
 ## L1 (ecosystems)
-- AIUZ v2-v4 — education modules
-- TerraPedia — fractal encyclopedia
-- Terra Archive Manager — living archive manager
+- AIUZ v2-v4 вЂ” education modules
+- TerraPedia вЂ” fractal encyclopedia
+- Terra Archive Manager вЂ” living archive manager
 
 ## L2 (applications)
-- Green Tech — EV and energy projects
+- Green Tech вЂ” EV and energy projects
 
 ## How to navigate
 1. Start at Nullo master README (root)
