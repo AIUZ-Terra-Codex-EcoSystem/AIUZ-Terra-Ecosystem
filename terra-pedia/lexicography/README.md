@@ -1,13 +1,13 @@
-# 📖 Fractal Lexicography
+# рџ“– Fractal Lexicography
 
 **Post-Lingua Trace (PLT) Methodology**
 
 ## Concept
 
-Traditional dictionaries: word → definition → example
+Traditional dictionaries: word в†’ definition в†’ example
 
-Fractal lexicography: word → semantic trace → cultural contexts → 
-cross-language mappings → evolution → AI interpretations → quantum superposition
+Fractal lexicography: word в†’ semantic trace в†’ cultural contexts в†’ 
+cross-language mappings в†’ evolution в†’ AI interpretations в†’ quantum superposition
 
 ## Example Entry: "Fractal"
 
