@@ -1,4 +1,4 @@
-# 🛣️ Fractal Silk Route Hub
+# рџ›ЈпёЏ Fractal Silk Route Hub
 
 **Decentralized Logistics Network**
 
