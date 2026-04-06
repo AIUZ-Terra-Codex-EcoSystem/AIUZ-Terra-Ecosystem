@@ -1,4 +1,4 @@
-# 🧮 Millennium Solver
+# рџ§® Millennium Solver
 
 **Collaborative Mathematical Problem Solving**
 
