@@ -1,4 +1,4 @@
-# 🧠 TerraMemoryDNA v4.0
+# рџ§  TerraMemoryDNA v4.0
 
 **AI Context Recovery Protocol**
 
@@ -20,10 +20,10 @@ console.log(memory.getRecoveryPrompt());
 
 ## Features
 
-- ✅ Project identity tracking
-- ✅ Phase management
-- ✅ Progress logging
-- ✅ Recovery prompt generation
+- вњ… Project identity tracking
+- вњ… Phase management
+- вњ… Progress logging
+- вњ… Recovery prompt generation
 
 ## License
 
