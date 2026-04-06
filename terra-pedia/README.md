@@ -1,14 +1,14 @@
-# 📚 TerraPedia
+# рџ“љ TerraPedia
 
 **Living, Fractal-Structured Knowledge Base**
 
 ## Vision
 
 TerraPedia is a living knowledge organism that:
-- 🌱 Evolves through community co-curation
-- 🔮 Adapts to multiple perspectives (L7)
-- 🌐 Preserves cultural integrity
-- 🔄 Operates on fractal principles
+- рџЊ± Evolves through community co-curation
+- рџ”® Adapts to multiple perspectives (L7)
+- рџЊђ Preserves cultural integrity
+- рџ”„ Operates on fractal principles
 
 ## Structure
 
