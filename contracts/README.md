@@ -1,4 +1,4 @@
-# ⚖️ Terra DAO Framework
+# вљ–пёЏ Terra DAO Framework
 
 **Decentralized Governance**
 
@@ -17,7 +17,7 @@
 - 5% quarterly burn
 - Variable supply
 
-📂 [Smart Contract](tokens/UTIL-token.sol)
+рџ“‚ [Smart Contract](tokens/UTIL-token.sol)
 
 ### GOV Token
 - Voting rights
