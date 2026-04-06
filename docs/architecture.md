@@ -1,4 +1,4 @@
-# 🏗️ System Architecture
+# рџЏ—пёЏ System Architecture
 
 **Technical documentation coming soon**
 
