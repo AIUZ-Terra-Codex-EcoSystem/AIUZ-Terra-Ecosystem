@@ -1,4 +1,4 @@
-# ⛏️ Uzbek Mining Project
+# в›ЏпёЏ Uzbek Mining Project
 
 **Ecological Cryptocurrency Mining - 100% Renewable Energy**
 
@@ -8,18 +8,18 @@
 |--------|-------|
 | **Location** | Tashkent Region, Uzbekistan |
 | **Launch** | Q2 2026 (Pilot) |
-| **Capacity** | 10 MW (Phase 1) → 50 MW (Phase 2) |
+| **Capacity** | 10 MW (Phase 1) в†’ 50 MW (Phase 2) |
 | **Energy** | 100% Solar + Wind |
 | **Jobs** | 50+ direct |
-| **Carbon** | -500 tons CO₂/year offset |
+| **Carbon** | -500 tons COв‚‚/year offset |
 
 ## Why Uzbekistan?
 
-✅ 300+ sunny days/year  
-✅ Low operating costs  
-✅ Government support  
-✅ Strategic location  
-✅ Young workforce  
+вњ… 300+ sunny days/year  
+вњ… Low operating costs  
+вњ… Government support  
+вњ… Strategic location  
+вњ… Young workforce  
 
 ## Phases
 
@@ -47,7 +47,7 @@
 
 ## Contact
 
-📧 invest@uzbekmining.org
+рџ“§ invest@uzbekmining.org
 
 ---
 
