@@ -110,7 +110,7 @@ jobs:
           # 2. Memory Protocol README
           # ============================================================
           cat > terra-codex/memory-protocol/README.md << 'EOFMD'
-          # 🧠 TerraMemoryDNA v4.0
+          # рџ§  TerraMemoryDNA v4.0
           
           **AI Context Recovery Protocol**
           
@@ -132,10 +132,10 @@ jobs:
           
           ## Features
           
-          - ✅ Project identity tracking
-          - ✅ Phase management
-          - ✅ Progress logging
-          - ✅ Recovery prompt generation
+          - вњ… Project identity tracking
+          - вњ… Phase management
+          - вњ… Progress logging
+          - вњ… Recovery prompt generation
           
           ## License
           
@@ -151,17 +151,17 @@ jobs:
           # ============================================================
           mkdir -p terra-pedia
           cat > terra-pedia/README.md << 'EOFMD'
-          # 📚 TerraPedia
+          # рџ“љ TerraPedia
           
           **Living, Fractal-Structured Knowledge Base**
           
           ## Vision
           
           TerraPedia is a living knowledge organism that:
-          - 🌱 Evolves through community co-curation
-          - 🔮 Adapts to multiple perspectives (L7)
-          - 🌐 Preserves cultural integrity
-          - 🔄 Operates on fractal principles
+          - рџЊ± Evolves through community co-curation
+          - рџ”® Adapts to multiple perspectives (L7)
+          - рџЊђ Preserves cultural integrity
+          - рџ”„ Operates on fractal principles
           
           ## Structure
           
@@ -195,16 +195,16 @@ jobs:
           # ============================================================
           mkdir -p terra-pedia/lexicography
           cat > terra-pedia/lexicography/README.md << 'EOFMD'
-          # 📖 Fractal Lexicography
+          # рџ“– Fractal Lexicography
           
           **Post-Lingua Trace (PLT) Methodology**
           
           ## Concept
           
-          Traditional dictionaries: word → definition → example
+          Traditional dictionaries: word в†’ definition в†’ example
           
-          Fractal lexicography: word → semantic trace → cultural contexts → 
-          cross-language mappings → evolution → AI interpretations → quantum superposition
+          Fractal lexicography: word в†’ semantic trace в†’ cultural contexts в†’ 
+          cross-language mappings в†’ evolution в†’ AI interpretations в†’ quantum superposition
           
           ## Example Entry: "Fractal"
           
@@ -232,33 +232,33 @@ jobs:
           # ============================================================
           mkdir -p projects
           cat > projects/README.md << 'EOFMD'
-          # 🌱 Terra Projects
+          # рџЊ± Terra Projects
           
           **Real-World Applications of FMP**
           
           ## Active Projects
           
-          ### 1. 🌱 Uzbek Mining
+          ### 1. рџЊ± Uzbek Mining
           Ecological cryptocurrency mining powered by solar energy.
           - **Status**: Pilot Q2 2026
           - **Location**: Tashkent, Uzbekistan
           - **Investment**: $5M (Phase 1)
           
-          📂 [Full Documentation](uzbek-mining/)
+          рџ“‚ [Full Documentation](uzbek-mining/)
           
-          ### 2. 🛣️ Fractal Silk Route Hub
+          ### 2. рџ›ЈпёЏ Fractal Silk Route Hub
           Decentralized logistics network for Central Asia.
           - **Status**: Planning 2026
           - **Technology**: Blockchain, AI routing, DAO
           
-          📂 [Full Documentation](fractal-silk-route/)
+          рџ“‚ [Full Documentation](fractal-silk-route/)
           
-          ### 3. 🧮 Millennium Solver
+          ### 3. рџ§® Millennium Solver
           Collaborative platform for solving mathematical problems.
           - **Target**: Millennium Prize Problems
           - **Approach**: Fractal decomposition (L0-L7)
           
-          📂 [Full Documentation](millennium-solver/)
+          рџ“‚ [Full Documentation](millennium-solver/)
           
           ---
           
@@ -270,7 +270,7 @@ jobs:
           # ============================================================
           mkdir -p projects/uzbek-mining
           cat > projects/uzbek-mining/README.md << 'EOFMD'
-          # ⛏️ Uzbek Mining Project
+          # в›ЏпёЏ Uzbek Mining Project
           
           **Ecological Cryptocurrency Mining - 100% Renewable Energy**
           
@@ -280,18 +280,18 @@ jobs:
           |--------|-------|
           | **Location** | Tashkent Region, Uzbekistan |
           | **Launch** | Q2 2026 (Pilot) |
-          | **Capacity** | 10 MW (Phase 1) → 50 MW (Phase 2) |
+          | **Capacity** | 10 MW (Phase 1) в†’ 50 MW (Phase 2) |
           | **Energy** | 100% Solar + Wind |
           | **Jobs** | 50+ direct |
-          | **Carbon** | -500 tons CO₂/year offset |
+          | **Carbon** | -500 tons COв‚‚/year offset |
           
           ## Why Uzbekistan?
           
-          ✅ 300+ sunny days/year  
-          ✅ Low operating costs  
-          ✅ Government support  
-          ✅ Strategic location  
-          ✅ Young workforce  
+          вњ… 300+ sunny days/year  
+          вњ… Low operating costs  
+          вњ… Government support  
+          вњ… Strategic location  
+          вњ… Young workforce  
           
           ## Phases
           
@@ -319,7 +319,7 @@ jobs:
           
           ## Contact
           
-          📧 invest@uzbekmining.org
+          рџ“§ invest@uzbekmining.org
           
           ---
           
@@ -331,7 +331,7 @@ jobs:
           # ============================================================
           mkdir -p projects/fractal-silk-route
           cat > projects/fractal-silk-route/README.md << 'EOFMD'
-          # 🛣️ Fractal Silk Route Hub
+          # рџ›ЈпёЏ Fractal Silk Route Hub
           
           **Decentralized Logistics Network**
           
@@ -353,7 +353,7 @@ jobs:
           # ============================================================
           mkdir -p projects/millennium-solver
           cat > projects/millennium-solver/README.md << 'EOFMD'
-          # 🧮 Millennium Solver
+          # рџ§® Millennium Solver
           
           **Collaborative Mathematical Problem Solving**
           
@@ -375,7 +375,7 @@ jobs:
           # ============================================================
           mkdir -p contracts/tokens
           cat > contracts/README.md << 'EOFMD'
-          # ⚖️ Terra DAO Framework
+          # вљ–пёЏ Terra DAO Framework
           
           **Decentralized Governance**
           
@@ -394,7 +394,7 @@ jobs:
           - 5% quarterly burn
           - Variable supply
           
-          📂 [Smart Contract](tokens/UTIL-token.sol)
+          рџ“‚ [Smart Contract](tokens/UTIL-token.sol)
           
           ### GOV Token
           - Voting rights
@@ -486,7 +486,7 @@ jobs:
           # ============================================================
           mkdir -p docs
           cat > docs/architecture.md << 'EOFMD'
-          # 🏗️ System Architecture
+          # рџЏ—пёЏ System Architecture
           
           **Technical documentation coming soon**
           
@@ -501,7 +501,7 @@ jobs:
           EOFMD
           
           cat > docs/deployment.md << 'EOFMD'
-          # 🚀 Deployment Guide
+          # рџљЂ Deployment Guide
           
           **Coming soon**
           
@@ -516,7 +516,7 @@ jobs:
           EOFMD
           
           cat > docs/api-reference.md << 'EOFMD'
-          # 📡 API Reference
+          # рџ“Ў API Reference
           
           **Coming soon**
           
@@ -533,7 +533,7 @@ jobs:
           git config user.name "Abdurashid A. Abdukarimov"
           git config user.email "a.a.abdukarimov@tutamail.com"
           git add .
-          git commit -m "🤖 Auto-populate: Add all missing files via GitHub Actions
+          git commit -m "рџ¤– Auto-populate: Add all missing files via GitHub Actions
 
           Added:
           - TerraMemoryDNA v4.0.js + README
