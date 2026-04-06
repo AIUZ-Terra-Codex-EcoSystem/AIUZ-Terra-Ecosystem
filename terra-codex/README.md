@@ -1,52 +1,52 @@
-# 🎓 Terra Codex
+# рџЋ“ Terra Codex
 
 **Multi-Level Educational Framework (L0-L7)**
 
 ---
 
-## 📖 Overview
+## рџ“– Overview
 
 Terra Codex is a revolutionary educational platform implementing the Fractal Metascience Paradigm through seven recursive layers. It transforms traditional static learning into a dynamic, adaptive, and culturally-sensitive experience.
 
 ---
 
-## 🌐 Core Philosophy
+## рџЊђ Core Philosophy
 
 ### Traditional Education
 ```
-Teacher → Textbook → Student → Test
+Teacher в†’ Textbook в†’ Student в†’ Test
 (Linear, static, one-size-fits-all)
 ```
 
 ### Terra Codex
 ```
 L0: Core content
-  ↓
+  в†“
 L1: Semantic connections
-  ↓
+  в†“
 L2: Interactive practice
-  ↓
+  в†“
 L3: Visual understanding
-  ↓
+  в†“
 L4: Native language
-  ↓
+  в†“
 L5: AI personalization
-  ↓
+  в†“
 L6: Real-world integration
-  ↓
+  в†“
 L7: Multi-perspective mastery
 ```
 
 ---
 
-## 📂 Components
+## рџ“‚ Components
 
 ### 1. Memory Protocol
 **TerraMemoryDNA v4.0** - AI context recovery system
 
 Preserves learning state across sessions, enabling true long-term human-AI collaboration in education.
 
-📂 [Documentation](memory-protocol/)
+рџ“‚ [Documentation](memory-protocol/)
 
 ### 2. LiveClass
 Real-time, adaptive learning experiences:
@@ -55,7 +55,7 @@ Real-time, adaptive learning experiences:
 - **Live feedback**: Instant corrections and hints
 - **Progress tracking**: Visual learning journey
 
-📂 [Documentation](live-class/) _(Coming soon)_
+рџ“‚ [Documentation](live-class/) _(Coming soon)_
 
 ### 3. Tamagochi
 Gamified learning companion:
@@ -64,7 +64,7 @@ Gamified learning companion:
 - **Engagement metrics**: Track motivation
 - **Social features**: Share progress with peers
 
-📂 [Documentation](tamagochi/) _(Coming soon)_
+рџ“‚ [Documentation](tamagochi/) _(Coming soon)_
 
 ### 4. Immersive Education
 VR/AR learning environments:
@@ -73,11 +73,11 @@ VR/AR learning environments:
 - **Cultural heritage tours**: Virtual field trips
 - **Collaborative spaces**: Study together in VR
 
-📂 [Documentation](immersive/) _(Coming soon)_
+рџ“‚ [Documentation](immersive/) _(Coming soon)_
 
 ---
 
-## 🎯 The L0-L7 Architecture
+## рџЋЇ The L0-L7 Architecture
 
 | Layer | Name | What It Does | Technology | Student Experience |
 |-------|------|--------------|------------|-------------------|
@@ -92,7 +92,7 @@ VR/AR learning environments:
 
 ---
 
-## 🚀 How It Works
+## рџљЂ How It Works
 
 ### Example: Learning "Fractals"
 
@@ -103,9 +103,9 @@ VR/AR learning environments:
 
 **L1**: System shows related concepts
 ```
-Fractals ←→ Recursion
-Fractals ←→ Self-similarity
-Fractals ←→ Mandelbrot Set
+Fractals в†ђв†’ Recursion
+Fractals в†ђв†’ Self-similarity
+Fractals в†ђв†’ Mandelbrot Set
 ```
 
 **L2**: Interactive exercise
@@ -140,15 +140,15 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 
 **L7**: Multiple perspectives
 ```
-📐 Math view: Hausdorff dimension = log(N)/log(S)
-🎨 Art view: Fractals in Islamic geometric patterns
-🌿 Nature view: Ferns, coastlines, river networks
-🧠 Philosophy: Infinite within finite
+рџ“ђ Math view: Hausdorff dimension = log(N)/log(S)
+рџЋЁ Art view: Fractals in Islamic geometric patterns
+рџЊї Nature view: Ferns, coastlines, river networks
+рџ§  Philosophy: Infinite within finite
 ```
 
 ---
 
-## 🎓 Pilot Deployment
+## рџЋ“ Pilot Deployment
 
 ### Location
 **Tashkent, Uzbekistan**
@@ -172,7 +172,7 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 
 ---
 
-## 🛠️ Technology Stack
+## рџ› пёЏ Technology Stack
 
 ### Frontend
 - **Framework**: React 18+
@@ -198,7 +198,7 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 
 ---
 
-## 📊 Success Metrics
+## рџ“Љ Success Metrics
 
 ### Learning Outcomes
 - **Comprehension**: +40% vs traditional methods
@@ -217,7 +217,7 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 
 ---
 
-## 🤝 For Educators
+## рџ¤ќ For Educators
 
 ### How to Use Terra Codex
 
@@ -228,23 +228,23 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 5. **Customize** content for your class
 
 ### Benefits for Teachers
-- ✅ **Reduced grading**: Automated assessments
-- ✅ **Personalization**: AI adapts to each student
-- ✅ **Analytics**: Detailed progress reports
-- ✅ **Content library**: 10,000+ lessons
-- ✅ **Multilingual**: Support for diverse classrooms
+- вњ… **Reduced grading**: Automated assessments
+- вњ… **Personalization**: AI adapts to each student
+- вњ… **Analytics**: Detailed progress reports
+- вњ… **Content library**: 10,000+ lessons
+- вњ… **Multilingual**: Support for diverse classrooms
 
 ---
 
-## 🌍 For Students
+## рџЊЌ For Students
 
 ### What Makes Terra Codex Different?
 
 **Traditional Learning**:
-- Read → Memorize → Test → Forget
+- Read в†’ Memorize в†’ Test в†’ Forget
 
 **Terra Codex**:
-- Explore → Understand → Apply → Master
+- Explore в†’ Understand в†’ Apply в†’ Master
 
 ### Your Learning Journey
 1. Start at your level (AI assessment)
@@ -256,7 +256,7 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 
 ---
 
-## 💡 Example Courses
+## рџ’Ў Example Courses
 
 ### Mathematics
 - **L0-L2**: Basic arithmetic, algebra
@@ -269,9 +269,9 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 - **Chemistry**: Atoms, molecules, reactions
 
 ### Languages
-- **Uzbek**: Native speaker → Academic writing
-- **Russian**: Beginner → Advanced
-- **English**: ESL → University level
+- **Uzbek**: Native speaker в†’ Academic writing
+- **Russian**: Beginner в†’ Advanced
+- **English**: ESL в†’ University level
 
 ### Computer Science
 - **Basics**: Variables, loops, functions
@@ -280,15 +280,15 @@ AI: "Think of Russian nesting dolls (matryoshka)..."
 
 ---
 
-## 🔧 For Developers
+## рџ”§ For Developers
 
 ### Contributing to Terra Codex
 
 We welcome contributions:
-- 📚 **Content**: Create L0-L7 lessons
-- 🎨 **UI/UX**: Improve student interface
-- 🤖 **AI**: Enhance tutoring capabilities
-- 🌐 **Translations**: Add new languages
+- рџ“љ **Content**: Create L0-L7 lessons
+- рџЋЁ **UI/UX**: Improve student interface
+- рџ¤– **AI**: Enhance tutoring capabilities
+- рџЊђ **Translations**: Add new languages
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md)
 
@@ -310,7 +310,7 @@ await client.progress.update(userId, lessonId, {
 
 ---
 
-## 📖 Documentation
+## рџ“– Documentation
 
 - [Memory Protocol Details](memory-protocol/)
 - [L0-L7 Architecture Guide](docs/architecture.md)
@@ -319,14 +319,14 @@ await client.progress.update(userId, lessonId, {
 
 ---
 
-## 📜 License
+## рџ“њ License
 
 - **Software**: MIT License
 - **Educational Content**: CC-BY-SA 4.0
 
 ---
 
-## 👤 Contact
+## рџ‘¤ Contact
 
 - **General**: terracodex@terra.org
 - **Support**: support@terracodex.org
